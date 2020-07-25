@@ -2,7 +2,7 @@
 require 'net/http'
  require 'open-uri'
  require 'json'
- require_relative 'lib/get_requester.rb'
+#  require_relative 'lib/get_requester.rb'
 class GetRequester
 
     URL =  "https://learn-co-curriculum.github.io/json-site-example/endpoints/people.json"
